@@ -1,0 +1,35 @@
+Elliott Stoddard
+Software Engineer
+Ambient Sensors
+
+CEO Dr. Robert Davidson, 
+March 6th 2018
+
+I am writing you today to share two big problems with my employment at Ambient Sensors. When I agreed to work for Ambient Sensors, I understood that there would be times when I did not get paid. But it was clearly stated that those times would be when there were no customers, and I would not be required to work. Having free time to work on my own projects is something I was looking forward too. 
+
+But now I am commuting though tough traffic, working long hours, and singularly developing great software with little guidance and no documentation. After all of my effort I have only been paid for my first week of work. I have been working for Ambient Sensors since January 22. That is more than a month of full time work, for a client, without a paycheck. Ambient Sensors owes me for approximately 200 hours of work. At my pay rate of $50 an hour, that is $10,000 in back pay before deductions. 
+
+Last week, on March 1st, you told me that the client has been making payments, and that you would make sure to get me a check the next day. I have not received the check, or an explanation off why I have not been paid. Rather than talk truthfully to me, and ask for my help, you avoid me, and lie to me. I want to be part of the team, but you are treating me like an outsider you can abuse. 
+
+I enjoy writing software, and this project uses a lot of technology I want to work with. The current code base is something I am proud of, and I want to complete. But with the documentation, guidance and support I have received, I may as well be working for myself. This increases the stress on me, and makes it almost impossible to deliver the product you or the customer wants. 
+
+Software developers work best with frequent feedback, and a documented understanding of what is expected. Until March 5th when I shared pictures of the app, unsolicited, no one else has even seen, or asked to see what the user interface looks like. 
+
+The one exception is Sandra, she has helped me a lot by troubleshoot the Bluetooth Low Energy interface with me. 
+
+This situation of no pay and no management cannot continue, and it won’t. I have been more than fair for more than a month, working diligently, and regularly checking in my work product, so that you have access to it. 
+
+Unless an arrangement is made to pay me for the time I have worked, I have no option but to assume that I have been laid off by Ambient Sensors because of a lack of corporate funds. 
+
+
+Sincerely, 
+
+
+
+
+Elliott Stoddard
+
+
+CC: 	CTO Sandra Capri
+	CSA Barry Kurtz
+	F. Alfredo Rego
