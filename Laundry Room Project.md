@@ -3,6 +3,7 @@
     - [ ] Subfloor repaired
     - [ ] Replace insulation that was removed.
   - [ ] Dry wall repaired
+    - [ ] Replace drywall and mud
     - [ ] Texture
     - [ ] Paint
   - [ ] Built in pedestal with storage
@@ -12,17 +13,17 @@
   - [ ] New cabnets above the washer dryer
   - [ ] Trim the bottom of the door due to tile being higher
 - [ ] Living Room
-  - [ ] Repair walls
-  - [ ] Texture walls
+  - [ ] Dry wall repaired
+    - [ ] Replace drywall and mud
+    - [ ] Texture walls
   - [ ] Repair trim
   - [ ] Subfloor repair where needed.
   - [ ] Replace carpet with pad
 - [ ] Entryway from Garage
-	- [] Tile floor continuous from laundry room and bathroom
-	- [] Trim the bottom of the door due to tile being higher
+	- [ ] Tile floor continuous from laundry room and bathroom
+	- [ ] Trim the bottom of the door due to tile being higher
 - [ ] Bathroom
-	- [ ] Toilet removed for tile
-	- [ ] Tile floor continuous from entryway
-	- [ ] Toilet re-installed
-	- [ ] Trim the bottom of the doors due to tile being higher
-  
+  - [ ] Toilet removed for tile
+  - [ ] Tile floor continuous from entryway
+  - [ ] Toilet re-installed
+  - [ ] Trim the bottom of the doors due to tile being higher
