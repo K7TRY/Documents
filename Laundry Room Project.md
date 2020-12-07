@@ -1,0 +1,28 @@
+- [ ] Laundry room
+  - [ ] Flooring tile with base
+  - [ ] Subfloor repaired
+  - [ ] Dry wall repaired
+  - [ ] Texture
+  - [ ] Paint
+  - [ ] Built in pedestal with storage
+    -  2-3 feet of height in storage area
+    -  Strong enough to support the washer and drier
+  - [ ] Move the dryer exhaust hose up to accommodate for the storage space.
+  - [ ] Replace insulation that was removed.
+  - [ ] New cabnets above the washer dryer
+  - [ ] Trim the bottom of the door
+- [ ] Living Room
+  - [ ] Repair walls
+  - [ ] Texture walls
+  - [ ] Repair trim
+  - [ ] Subfloor repair where needed.
+  - [ ] Replace carpet with pad
+- [ ] Entryway from Garage
+	- [ ] Tile floor continuous from laundry room and bathroom
+	- [ ] Trim the bottom of the door
+- [ ] Bathroom
+	- [ ] Toilet removed for tile
+	- [ ] Tile floor continuous from entryway
+	- [ ] Toilet re-installed
+	- [ ] Trim the bottom of the doors
+  
